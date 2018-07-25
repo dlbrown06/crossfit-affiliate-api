@@ -1,1 +1,1 @@
-# crossfit-affiliate-api
+# Crossfit Affiliate API
